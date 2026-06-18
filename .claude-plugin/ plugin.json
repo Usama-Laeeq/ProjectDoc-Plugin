@@ -1,0 +1,6 @@
+{
+  "name": "projectdocs",
+  "description": "Generate developer docs, README, and a non-technical PDF spec, you can also give specific instructions about the project and the plugin will generate the docs accordingly.",
+  "version": "1.0.0",
+  "author": { "name": "Usama Laeeq" }
+}
