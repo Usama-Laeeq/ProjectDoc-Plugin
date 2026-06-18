@@ -1,8 +1,0 @@
-{
-  "plugins": [
-    {
-      "name": "projectdocs",
-      "repository": "https://github.com/Usama-Laeeq/ProjectDoc-Plugin.git"
-    }
-  ]
-}

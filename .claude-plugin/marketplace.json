@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "projectdoc-plugin",
+  "description": "Generate developer docs, README, and non-technical PDF spec",
+  "owner": {
+    "name": "Usama Laeeq"
+  },
+  "plugins": [
+    {
+      "name": "projectdocs",
+      "description": "Generate developer docs, README, and a non-technical PDF spec, you can also give specific instructions about the project and the plugin will generate the docs accordingly.",
+      "version": "1.0.0",
+      "source": {
+        "source": "github",
+        "repo": "Usama-Laeeq/ProjectDoc-Plugin",
+        "ref": "main"
+      },
+      "category": "productivity"
+    }
+  ]
+}
